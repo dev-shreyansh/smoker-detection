@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.h5
+*.pickle
+venv/
+myenv/
+data/
+models/
+outputs/
+
